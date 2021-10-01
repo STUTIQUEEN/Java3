@@ -1,6 +1,8 @@
 Class Muntiply{
 Public Static Void main(){
-S =5*7;
-System.out.printpn("Product ="+S);
+int a =7; 
+int s= 5;
+int p= s*a;
+System.out.printpn("Product ="+p);
 }
 }
